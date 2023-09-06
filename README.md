@@ -5,8 +5,8 @@ Description: Implement an API authentication and authorization system in Laravel
 application. The system should ensure secure access to API endpoints and control user
 permissions based on their roles.
 
-Extend the existing user management system in Laravel by implementing role-based
-authorization. The following tasks need to be implemented to allow different users to update or
+User management system in Laravel by implementing role-based
+authorization. The following project implemented to allow different users to update or
 delete users based on their roles:
 
 User Roles and Permissions:
@@ -50,6 +50,5 @@ accounts.
 
 ● Regular users should not have permission to delete user accounts.
 
-Additionally, please create a job in Laravel that runs periodically to delete users who have been
-blocked for 48 hours or longer. Please follow the provided steps to complete this task. Also,
-remember to notify the user via email one day before deleting their account.
+Additionally, create a job in Laravel that runs periodically to delete users who have been
+blocked for 48 hours or longer. Also, notify the user via email one day before deleting their account.
