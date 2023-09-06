@@ -1,5 +1,5 @@
 # User-management-system
-User management system (with the roles). Webbase and API base system. Developed in Laravel, jQuery, mySql, Html, CSS(Bootstrap).
+User management system (with the roles). Web and API base system. Developed in Laravel, jQuery, mySql, Html, CSS(Bootstrap).
 
 Description: Implement an API authentication and authorization system in Laravel for a web
 application. The system should ensure secure access to API endpoints and control user
